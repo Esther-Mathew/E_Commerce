@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZrQAag8TQ+vYT/jlkhmYL4T67OzdBqYhpRPDS8e4jaznQAse6o+wybQ73SpU1CAbh5FNPcea4Sc3R+afSeg5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esther.t\\Desktop\\.Net Practice\\E_Commerce Api\\e-commerce_api\\e-commerce_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esther.t\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\esther.t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
